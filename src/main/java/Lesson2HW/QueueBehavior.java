@@ -1,4 +1,4 @@
-package Lesson2_HW;
+package Lesson2HW;
 
 
 public interface QueueBehavior {
