@@ -1,5 +1,4 @@
-package Lesson2HW;
-
+package Lesson2_HW;
 
 public interface QueueBehavior {
     void takeInQueue(Buyer actor);

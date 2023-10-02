@@ -1,4 +1,4 @@
-package Lesson2HW;
+package Lesson2_HW;
 
 public abstract class Buyer implements BuyerBehavior {
     protected String name;
@@ -6,5 +6,6 @@ public abstract class Buyer implements BuyerBehavior {
     protected boolean isTakeOrderClass;
 
     abstract String getName();
-}
 
+
+}

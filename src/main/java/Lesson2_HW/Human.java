@@ -1,4 +1,4 @@
-package Lesson2HW;
+package Lesson2_HW;
 
 public class Human extends Buyer {
 
